@@ -1,1 +1,0 @@
-we're trying to test how git ignore works.
